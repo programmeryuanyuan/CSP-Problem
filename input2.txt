@@ -1,0 +1,10 @@
+# tutorial takes place during lecture, lecture is on fri and starts before 11am 
+activity lecture 3
+activity tutorial 1
+# two binary constraints
+constraint tutorial during lecture
+# hard domain constraints
+domain lecture on fri
+domain lecture starts-before 11am
+# soft domain constraints
+domain lecture around 9am 10

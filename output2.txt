@@ -1,0 +1,3 @@
+lecture:wed 7am
+tutorial:wed 10am
+cost:10

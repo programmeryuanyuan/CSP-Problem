@@ -1,0 +1,11 @@
+# 2 activities overlaps, lecture starts and ends after wed and ends before 5pm
+activity lecture 3
+activity tutorial 2
+# two binary constraints
+constraint lecture overlaps tutorial
+# hard domain constraints
+domain lecture on wed
+domain lecture ends-before 5pm
+# soft domain constraints
+domain lecture around 3pm 10
+domain lecture around 2pm 30

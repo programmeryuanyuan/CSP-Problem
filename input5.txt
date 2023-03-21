@@ -1,0 +1,10 @@
+# two activities on the same day where time preference cannot be met
+activity lecture 4
+activity tutorial 5
+# two binary constraints
+constraint lecture starts tutorial
+# hard domain constraints
+domain lecture on mon
+domain tutorial starts-after 1pm
+# soft domain constraints
+domain tutorial around 5pm 10

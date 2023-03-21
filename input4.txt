@@ -1,0 +1,10 @@
+# 2 activities take place together, both ends after 1pm
+activity lecture 2
+activity tutorial 2
+# two binary constraints
+constraint tutorial equals lecture
+# hard domain constraints
+domain lecture ends-after 1pm
+# soft domain constraints
+domain lecture around 10am 10
+domain lecture around 3pm 10

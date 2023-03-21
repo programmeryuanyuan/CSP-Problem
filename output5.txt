@@ -1,0 +1,3 @@
+lecture:wed 12pm
+tutorial:wed 12pm
+cost:0
